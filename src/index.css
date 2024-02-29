@@ -1,0 +1,9 @@
+.chat-bottom-left {
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  .chat-bottom-left {
+    width: auto;
+  }
+}

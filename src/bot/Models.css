@@ -1,0 +1,21 @@
+.chat-bot-models {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 50%);
+    margin-left: 25px;
+}
+
+.chat-bot-model {
+    max-width: 150px;
+    cursor: pointer;
+}
+
+.caption {
+    text-align: center;
+    background-color: #4396e8;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 4px;
+    text-align: center;
+    margin: 0px 2px 0px 2px;
+    font-size: larger;
+}
